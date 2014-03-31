@@ -62,8 +62,8 @@
 
 #gameboard td {
  border: 1px solid black;
- width: 20px;
- height: 20px; 
+ width: 22px;
+ height: 22px; 
  margin: 1px;
  /* width and height can be anything, as long as they're equal */
 }
