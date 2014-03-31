@@ -1,0 +1,91 @@
+.green {
+ border-radius: 50%; 
+ background: lime;
+ /* width and height can be anything, as long as they're equal */
+}
+
+.red {
+ border-radius: 50%;
+ background: red;
+ /* width and height can be anything, as long as they're equal */
+}
+
+.yellow {
+ border-radius: 50%;
+ background: yellow;
+ /* width and height can be anything, as long as they're equal */
+}
+
+.pink {
+ border-radius: 50%;
+ background: fuchsia;
+ /* width and height can be anything, as long as they're equal */
+}
+
+.blue {
+ border-radius: 50%;
+ background: blue;
+ /* width and height can be anything, as long as they're equal */
+}
+
+.purple {
+ border-radius: 50%;
+ background: purple;
+ /* width and height can be anything, as long as they're equal */
+}
+
+.black {
+ border-radius: 50%;
+ background: black;
+ /* width and height can be anything, as long as they're equal */
+}
+
+.white {
+ border: 3px solid #C0C0C0;
+ border-radius: 50%;
+ background: white;
+ /* width and height can be anything, as long as they're equal */
+}
+
+#gameboard, #gameboard_opponent {
+ border: 3px solid black;
+ background: white;
+ /* width and height can be anything, as long as they're equal */
+}
+
+#gameboard div {
+ width: 20px;
+ height: 20px; 
+ margin: 1px;
+ /* width and height can be anything, as long as they're equal */
+}
+
+#gameboard td {
+ border: 1px solid black;
+ width: 20px;
+ height: 20px; 
+ margin: 1px;
+ /* width and height can be anything, as long as they're equal */
+}
+
+#gameboard_opponent div {
+ width: 10px;
+ height: 10px; 
+ margin: 1px;
+ /* width and height can be anything, as long as they're equal */
+}
+
+#gameboard_opponent td {
+ border: 1px solid black;
+ width: 10px;
+ height: 10px; 
+ margin: 1px;
+ /* width and height can be anything, as long as they're equal */
+}
+
+#palette div {
+ width: 20px;
+ height: 20px; 
+ margin: 1px;
+ /* width and height can be anything, as long as they're equal */
+}
