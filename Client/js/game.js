@@ -1,3 +1,12 @@
+var gamestate = {
+    myfacit: ['red', 'green', 'blue', 'red'],
+    opponentfacit: ['red', 'green', 'blue', 'red'],
+    currentrow: 12,
+    opponentrow: 12,
+    opponentboard: [],
+    myboard: []
+};
+
 $(function() {
     $("#gameboard").append('<tr class="facitrow"><td></td><td></td><td></td><td></td><td></td></tr>');
     var i, j;
